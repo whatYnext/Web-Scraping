@@ -3,6 +3,7 @@
 Web scraping on BaiDubaike. 
 1. Set a first page, then random find website in it.
 2. Run it for fixed times to see where you got the website.
+3. If the website cannot be open, we ignore this, rerandom again.
 
 @author: mayao
 """

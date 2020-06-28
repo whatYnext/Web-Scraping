@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Web scraping on BaiDu
+Web scraping on BaiDubaike. 
+1. Set a first page, then random find website in it.
+2. Run it for fixed times to see where you got the website.
+
 @author: mayao
 """
 
